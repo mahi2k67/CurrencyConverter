@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://miro.medium.com/v2/resize:fit:1200/1*2bf303U0V7AH3wP6ezUZ5g.jpeg);
+    font-family: Arial, sans-serif;
+}
+#header {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+.card {
+    max-width: 400px;
+    margin: auto;
+    border-radius: 15px;
+}
